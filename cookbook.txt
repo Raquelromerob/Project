@@ -1,0 +1,1 @@
+{"Spaghetti Bolognese": ["spaghetti", "ground beef", "tomato sauce", "onion", "garlic", "olive oil", "salt", "pepper"], "Chicken Stir Fry": ["chicken breast", "broccoli", "carrots", "soy sauce", "garlic", "ginger", "cornstarch", "vegetable oil"], "Baked Salmon": ["salmon fillet", "lemon", "dill", "garlic", "olive oil", "salt", "pepper"]}
